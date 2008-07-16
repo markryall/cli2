@@ -1,0 +1,12 @@
+Hi, thanks for downloading CLI 2!
+
+Some things to know:
+
+- The "filesystem" depends on a recent version of PHP, I'm not sure which -- all I can say for sure is that PHP 4.3.11 doesn't work but PHP 5.1 does.
+- There is a control panel to manage the more obvious settings.
+- You can add custom commands in the usr/bin directory; they will automatically be incorporated into the theme. *Remember* to use "e()" rather than "echo()" otherwise you will get invisible errors (the Firebug plugin for Firefox will help with debugging). Check out the "hello" command.
+- You can disable a command by changing its filename to something not of the form "command-{commandname}.inc.php". Add a ".disabled" to the end, for example.
+
+Questions/comments/requests for Version 3 (which will _not_ be as soon coming as Version 2 was): email rod underscore mcfarland at shaw dot ca.
+
+Enjoy!

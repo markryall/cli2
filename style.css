@@ -1,0 +1,20 @@
+/*
+Theme Name: CLI
+Theme URI: http://blog.elinc.ca/rod/index.php?wptheme=CLI
+Description: Command-Line Interface.
+Version: 2.3.20070412-svn326
+Author: Rod McFarland
+
+If you think all this crazy "graphics" stuff is too much, this may be for you...
+
+Version 2.3 introduces networking via "hosts" and "telnet".
+
+Version 2.1 fixes a pile of bugs that were in 2.0, to work with previous versions of WordPress. Nevertheless, it is recommended to 
+use WP 2.1. So yes, this is CLI 2.1 for WP 2.1.
+
+*/
+
+/*
+This file is only here so the theme selector can grab the above information. The real
+stylesheet is style.css.php.
+*/

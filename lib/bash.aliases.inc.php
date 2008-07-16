@@ -1,0 +1,27 @@
+<?php
+/* 'bash' aliases */
+$aliases=array(
+	'chdir'=>'cd',
+	'h'=>'help',
+	'?'=>'help',
+	'license'=>'gpl',
+	'latest'=>'last',
+	'l'=>'last',
+	'n'=>'next',
+	'prev'=>'previous',
+	'p'=>'previous',
+	'f'=>'first',
+	'r'=>'random',
+	'rand'=>'random',
+	'cursor'=>'current',
+	'dir'=>'ls',
+	'list'=>'ls',
+	'read'=>'cat',
+	'type'=>'cat',
+	'show'=>'cat',
+	'search'=>'grep',
+	'find'=>'grep',
+	'c'=>'comment',
+	'rss2'=>'rss'
+);
+?>
